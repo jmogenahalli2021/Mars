@@ -10,5 +10,10 @@ Banana
 2
 3
 4
+<<<<<<< HEAD
 One
 Two
+=======
+Three
+Four
+>>>>>>> df7091a (Numbers in text added)
