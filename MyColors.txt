@@ -5,6 +5,11 @@ Gray
 Black 
 Pink
 Apple
+<<<<<<< Updated upstream
 Banana
 1
 2
+=======
+3
+4
+>>>>>>> Stashed changes
