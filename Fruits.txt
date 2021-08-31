@@ -1,3 +1,5 @@
 apple
 Banana
 Orange
+JackFruit
+Strawberry
