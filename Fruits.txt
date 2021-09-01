@@ -1,15 +1,12 @@
 apple
 Banana
-Orange
-<<<<<<< Updated upstream
+Orange 
 JackFruit 
 Strawberry 
 Mango
 Grapes
-Hello
-Hello from His branch 
-=======
+Hello 
 JackFruit
 Strawberry
-Hello from Newbranch
->>>>>>> Stashed changes
+Hello from Newbranch 
+Hello from His branch 
