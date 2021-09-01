@@ -1,7 +1,9 @@
 apple
 Banana
 Orange
+JackFruit
+Strawberry 
 Mango
 Grapes
 Hello
-Hello from His branch
+Hello from His branch 
